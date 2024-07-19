@@ -29,7 +29,7 @@ You can find my website, blog, and more at [danielmake.com](https://danielmake.c
 - **Web3 Companies/Projects:** [Fiftysix](https://fiftysix.xyz), [CapsuleNFT](https://capsulenft.com), [Dollar Store Kids](https://dollarstorekids.io), [Ordinary Oranges](https://ordinaryorangesnft.io), [Bloq](https://bloq.com), [Hemi](https://hemi.xyz)
 - **And Worked With:** Visa, Lido, Quantstamp, Planet Atmos, Vesper, Metronome, Cheebs, ZenAcademy, Brawler Bears, Omni X, among many others
 
-## Some Cool Things About Me:
+## Some Cool Things:
 
 - Have been quoted in a [Fortune article](https://fortune.com/crypto/2023/02/17/ordinals-bitcoin-25k-satoshi-explanation/)
 - Have had my work on [the cover of a scientific journal](https://www.clinicalkey.com/#!/browse/toc/1-s2.0-S0016508519X00244/null/journalIssue)
@@ -38,4 +38,4 @@ You can find my website, blog, and more at [danielmake.com](https://danielmake.c
 
 ## Contact
 
-If you are interested in any sort of collaboration, advisorship, or just want to ask me a question, reach out anytime on [Twitter/X](https://twitter.com/greenfrog), Discord (danielmake56), or by email (daniel@fiftysix.xyz).
+If you are interested in any sort of collaboration, advisorship, or just want to ask me a question, reach out anytime on [Twitter/X](https://twitter.com/danielmake56), Discord (danielmake56), or by email (daniel@fiftysix.xyz).
