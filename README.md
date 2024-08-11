@@ -1,6 +1,4 @@
 # Welcome!
-
-## About Me
 I am a full-stack developer turned blockchain entrepreneur.
 
 I am currently building Fiftysix, a company focused on decentralizing blockchain.
