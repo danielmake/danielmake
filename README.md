@@ -10,7 +10,7 @@ You can find my website, blog, and more at [danielmake.com](https://danielmake.c
 - **[Fiftysix](https://fiftysix.xyz)**, The Decentralization Company - `Founder`
 - **[CapsuleNFT](https://capsulenft.com)** - Packaging and Shipping for Blockchain - `Co-founder, CEO, and Chairman` 
 - **[Dollar Store Kids](https://dollarstorekids.io)** - The first dollar-backed NFT collection in crypto - `Co-founder, Developer` 
-- **[Ordinary Oranges](https://ordinaryorangesnft.io)** - Sub 100k Bitcoin Ordinal collection (inscriptions 67,060 to 78,860) tradable on Ethereum - `Co-founder, Developer`
+- **[Ordinary Oranges](https://ordinaryorangesnft.io)** - Bitcoin Ordinals collection (inscriptions 67,060 to 78,860) on Ethereum - `Co-founder, Developer`
 
 ## I Have Worked Professionally With:
 
