@@ -25,7 +25,7 @@ You can find my website, blog, and more at [danielmake.com](https://danielmake.c
 
 - **Blockchains:** Bitcoin, Ethereum, Solana, Binance Smart Chain, Avalanche, Polygon, Arbitrum, Optimism, Litecoin, Algorand, Cardano, Cosmos, Polygon, Tezos, Injective, Celestia, and much more
 - **Web3 Companies/Projects:** [Fiftysix](https://fiftysix.xyz), [CapsuleNFT](https://capsulenft.com), [Dollar Store Kids](https://dollarstorekids.io), [Ordinary Oranges](https://ordinaryorangesnft.io), [Bloq](https://bloq.com), [Hemi](https://hemi.xyz)
-- **And Worked With:** Visa, Lido, Quantstamp, Planet Atmos, Vesper, Metronome, Cheebs, ZenAcademy, Brawler Bears, Omni X, among many others
+- **And Worked With:** Visa, Lido, Algorand, Quantstamp, Planet Atmos, Vesper, Metronome, Cheebs, ZenAcademy, Brawler Bears, Omni X, among many others
 
 ## Some Cool Things:
 
