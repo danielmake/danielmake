@@ -8,6 +8,7 @@ You can find my website, blog, and more at [danielmake.com](https://danielmake.c
 ## I Have Created:
 
 - **[Fiftysix](https://fiftysix.xyz)**, The Decentralization Company - `Founder`
+- **[Nodevin](https://nodevin.xyz)**, Open source CLI that empowers global participation in decentralization - `Founder, Maintainer`
 - **[CapsuleNFT](https://capsulenft.com)** - Packaging and Shipping for Blockchain - `Co-founder, CEO, and Chairman` 
 - **[Dollar Store Kids](https://dollarstorekids.io)** - The first dollar-backed NFT collection in crypto - `Co-founder, Developer` 
 - **[Ordinary Oranges](https://ordinaryorangesnft.io)** - Bitcoin Ordinals collection (inscriptions 67,060 to 78,860) on Ethereum - `Co-founder, Developer`
@@ -24,7 +25,7 @@ You can find my website, blog, and more at [danielmake.com](https://danielmake.c
 ## I Have Interacted With:
 
 - **Blockchains:** Bitcoin, Ethereum, Solana, Binance Smart Chain, Avalanche, Polygon, Arbitrum, Optimism, Litecoin, Algorand, Cardano, Cosmos, Polygon, Tezos, Injective, Celestia, and much more
-- **Web3 Companies/Projects:** [Fiftysix](https://fiftysix.xyz), [CapsuleNFT](https://capsulenft.com), [Dollar Store Kids](https://dollarstorekids.io), [Ordinary Oranges](https://ordinaryorangesnft.io), [Bloq](https://bloq.com), [Hemi](https://hemi.xyz)
+- **Web3 Companies/Projects:** [Fiftysix](https://fiftysix.xyz), [Nodevin](https://nodevin.xyz), [CapsuleNFT](https://capsulenft.com), [Dollar Store Kids](https://dollarstorekids.io), [Ordinary Oranges](https://ordinaryorangesnft.io), [Bloq](https://bloq.com), [Hemi](https://hemi.xyz)
 - **And Worked With:** Visa, Lido, Algorand, Quantstamp, Planet Atmos, Vesper, Metronome, Cheebs, ZenAcademy, Brawler Bears, Omni X, among many others
 
 ## Some Cool Things:
