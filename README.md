@@ -1,15 +1,13 @@
 # Welcome!
 I am a full-stack developer turned blockchain entrepreneur.
 
-I am currently building Fiftysix, a company focused on decentralizing blockchain.
-
 You can find my website, blog, and more at [danielmake.com](https://danielmake.com).
 
 ## I Have Created:
 
 - **[Fiftysix](https://fiftysix.xyz)**, The Decentralization Company - `Founder`
 - **[Nodevin](https://nodevin.xyz)**, Open source CLI that empowers global participation in decentralization - `Founder, Maintainer`
-- **[CapsuleNFT](https://capsulenft.com)** - Packaging and Shipping for Blockchain - `Co-founder, CEO, and Chairman` 
+- **[CapsuleNFT](https://capsulelabs.xyz/)** - Packaging and Shipping for Blockchain - `Co-founder, CEO, and Chairman` 
 - **[Dollar Store Kids](https://opensea.io/collection/dollar-store-kids)** - The first dollar-backed NFT collection in crypto - `Co-founder, Developer` 
 - **[Ordinary Oranges](https://ordinaryorangesnft.io)** - Bitcoin Ordinals collection (inscriptions 67,060 to 78,860) on Ethereum - `Co-founder, Developer`
 
@@ -32,8 +30,7 @@ You can find my website, blog, and more at [danielmake.com](https://danielmake.c
 
 - Have been quoted in a [Fortune article](https://fortune.com/crypto/2023/02/17/ordinals-bitcoin-25k-satoshi-explanation/)
 - Have had my work on [the cover of a scientific journal](https://www.clinicalkey.com/#!/browse/toc/1-s2.0-S0016508519X00244/null/journalIssue)
-- Speak 4 languages
-- Visited more than 25 US states
+- Had my company showcased on the [Times Square Billboard](https://medium.com/capsulenft/nft-nyc-2022-4e7f9b5b9cc7#1777)
 
 ## Contact
 
