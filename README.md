@@ -5,7 +5,7 @@ You can find my website, blog, and more at [danielmake.com](https://danielmake.c
 
 ## I Have Created:
 
-- **[Fiftysix](https://fiftysix.xyz)**, The Decentralization Company - `Founder`
+- **[Fiftysix](https://fiftysixcrypto.com)**, Learn crypto with clarity - `Founder`
 - **[Nodevin](https://nodevin.xyz)**, Open source CLI that empowers global participation in decentralization - `Founder, Maintainer`
 - **[CapsuleNFT](https://capsulelabs.xyz/)** - Packaging and Shipping for Blockchain - `Co-founder, CEO, and Chairman` 
 - **[Dollar Store Kids](https://opensea.io/collection/dollar-store-kids)** - The first dollar-backed NFT collection in crypto - `Co-founder, Developer` 
@@ -23,7 +23,7 @@ You can find my website, blog, and more at [danielmake.com](https://danielmake.c
 ## I Have Interacted With:
 
 - **Blockchains:** Bitcoin, Ethereum, Solana, Binance Smart Chain, Avalanche, Polygon, Arbitrum, Optimism, Litecoin, Algorand, Cardano, Cosmos, Polygon, Tezos, Injective, Celestia, and much more
-- **Web3 Companies/Projects:** [Fiftysix](https://fiftysix.xyz), [Nodevin](https://nodevin.xyz), [CapsuleNFT](https://capsulenft.com), [Dollar Store Kids](https://dollarstorekids.io), [Ordinary Oranges](https://ordinaryorangesnft.io), [Bloq](https://bloq.com), [Hemi](https://hemi.xyz)
+- **Web3 Companies/Projects:** [Fiftysix](https://fiftysixcrypto.com), [Nodevin](https://nodevin.xyz), [CapsuleNFT](https://capsulenft.com), [Dollar Store Kids](https://dollarstorekids.io), [Ordinary Oranges](https://ordinaryorangesnft.io), [Bloq](https://bloq.com), [Hemi](https://hemi.xyz)
 - **And Worked With:** Visa, Lido, Algorand, Quantstamp, Planet Atmos, Vesper, Metronome, Cheebs, ZenAcademy, Brawler Bears, Omni X, among many others
 
 ## Some Cool Things:
@@ -34,4 +34,4 @@ You can find my website, blog, and more at [danielmake.com](https://danielmake.c
 
 ## Contact
 
-If you are interested in any sort of collaboration, advisorship, or just want to ask me a question, reach out anytime on [Twitter/X](https://twitter.com/danielmake56), Discord (danielmake56), or by email (daniel@fiftysix.xyz).
+If you are interested in any sort of collaboration, advisorship, or just want to ask me a question, reach out anytime on [Twitter/X](https://twitter.com/danielmake56), Discord (danielmake56), or by email (daniel@fiftysixcrypto.com).
