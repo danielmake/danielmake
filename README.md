@@ -5,7 +5,7 @@ You can find my website, blog, and more at [danielmake.com](https://danielmake.c
 
 ## I Have Created:
 
-- **[Fiftysix](https://fiftysix.tech)**, Simplifying Tech for Startups - `Founder`
+- **[Fiftysix](https://fiftysix.tech)**, Trusted technical advisor for founders who want clarity - `Founder`
 - **[Nodevin](https://nodevin.xyz)**, Open source CLI that empowers global participation in decentralization - `Founder, Maintainer`
 - **[CapsuleNFT](https://capsulelabs.xyz/)** - Packaging and Shipping for Blockchain - `Co-founder, CEO, and Chairman` 
 - **[Dollar Store Kids](https://opensea.io/collection/dollar-store-kids)** - The first dollar-backed NFT collection in crypto - `Co-founder, Developer` 
