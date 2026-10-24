@@ -1,37 +1,41 @@
-# Welcome!
-I am a full-stack developer turned blockchain entrepreneur.
+# Daniel Peter
 
-You can find my website, blog, and more at [danielmake.com](https://danielmake.com).
+Founder of [Fiftysix](https://fiftysix.tech). Building in crypto since 2017. I write at [danielmake.com](https://danielmake.com).
 
-## I Have Created:
+## Now
 
-- **[Fiftysix](https://fiftysix.tech)**, Trusted technical advisor for founders - `Founder`
-- **[Nodevin](https://nodevin.xyz)**, Open source CLI that empowers global participation in decentralization - `Founder, Maintainer`
-- **[CapsuleNFT](https://capsulelabs.xyz/)** - Packaging and Shipping for Blockchain - `Co-founder, CEO, and Chairman` 
-- **[Dollar Store Kids](https://opensea.io/collection/dollar-store-kids)** - The first dollar-backed NFT collection in crypto - `Co-founder, Developer` 
-- **[Ordinary Oranges](https://ordinaryorangesnft.io)** - Bitcoin Ordinals collection (inscriptions 67,060 to 78,860) on Ethereum - `Co-founder, Developer`
+- **[Fiftysix](https://fiftysix.tech)** · `Founder`
+  Making technology easier and more accessible. Today, that means solver infrastructure.
+- **[Kaisersolver](https://fiftysix.tech/work/kaisersolver/)** · `Operator of record, through Fiftysix`
+  A CoW Protocol solver.
+- **[Nodevin](https://github.com/fiftysixtech/nodevin)** · `Founder, Maintainer`
+  Run a blockchain node with one command.
 
-## I Have Worked Professionally With:
+## Before
 
-- Blockchain infrastructure/architecture
-- Blockchain nodes, mining, and staking
-- Smart contract development (EVM, Rust, and more)
-- Market research and analysis
-- Product branding and positioning
-- Advising for companies and high net worth individuals
+- **Capsule** · `Co-founder, CEO and Chairman`
+  Packaging and shipping for blockchain. Bloq was majority shareholder. [Medium](https://medium.com/capsulenft) · [GitHub](https://github.com/CapsuleNFT)
+- **[Ordinary Oranges](https://ordinaryorangesnft.io)** · `Co-founder, Developer`
+  Bitcoin Ordinals (inscriptions 67,060 to 78,860) tradable on Ethereum.
+- **[Dollar Store Kids](https://github.com/CapsuleNFT/dollar-store-kids)** · `Co-founder, Developer`
+  The first dollar-backed NFT collection, audited by Quantstamp.
+- **[Bloq](https://bloq.com)**
+  Blockchain infrastructure and staking.
 
-## I Have Interacted With:
+## What I Work On
 
-- **Blockchains:** Bitcoin, Ethereum, Solana, Binance Smart Chain, Avalanche, Polygon, Arbitrum, Optimism, Litecoin, Algorand, Cardano, Cosmos, Polygon, Tezos, Injective, Celestia, and much more
-- **Web3 Companies/Projects:** [Fiftysix](https://fiftysix.tech), [Nodevin](https://nodevin.xyz), [CapsuleNFT](https://capsulenft.com), [Dollar Store Kids](https://dollarstorekids.io), [Ordinary Oranges](https://ordinaryorangesnft.io), [Bloq](https://bloq.com), [Hemi](https://hemi.xyz)
-- **And Worked With:** Visa, Lido, Algorand, Quantstamp, Planet Atmos, Vesper, Metronome, Cheebs, ZenAcademy, Brawler Bears, Omni X, among many others
+Blockchain infrastructure and nodes, solver operations, smart contracts (EVM, Rust), market research, and product positioning.
 
-## Some Cool Things:
+**Worked with:** Visa, Lido, Fedi, Quantstamp, Hemi, Algorand, Planet Atmos, Vesper, Metronome, ZenAcademy, and others.
 
-- Have been quoted in a [Fortune article](https://fortune.com/crypto/2023/02/17/ordinals-bitcoin-25k-satoshi-explanation/)
-- Have had my work on [the cover of a scientific journal](https://www.clinicalkey.com/#!/browse/toc/1-s2.0-S0016508519X00244/null/journalIssue)
-- Had my company showcased on the [Times Square Billboard](https://medium.com/capsulenft/nft-nyc-2022-4e7f9b5b9cc7#1777)
+## Some Cool Things
+
+- Quoted in [Fortune](https://fortune.com/crypto/2023/02/17/ordinals-bitcoin-25k-satoshi-explanation/) on Bitcoin Ordinals
+- Work on [the cover of a scientific journal](https://www.clinicalkey.com/#!/browse/toc/1-s2.0-S0016508519X00244/null/journalIssue)
+- Capsule on the [Times Square billboard](https://medium.com/capsulenft/nft-nyc-2022-4e7f9b5b9cc7#1777) during NFT NYC 2022
 
 ## Contact
 
-If you are interested in any sort of collaboration, advisorship, or just want to ask me a question, reach out anytime on [Twitter/X](https://twitter.com/danielmake56), Discord (danielmake56), or by email (daniel@fiftysix.tech).
+I advise a few founders and companies, in crypto and outside it. Reach me at [daniel@fiftysix.tech](mailto:daniel@fiftysix.tech) or on [X](https://x.com/danielmake56) and [LinkedIn](https://www.linkedin.com/in/daniel-peter-136a18159).
+
+Closer to home, I handle the tech for local businesses as [Danny Peter](https://dannypeter.com).
