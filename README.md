@@ -4,22 +4,22 @@ Founder of [Fiftysix](https://fiftysix.tech). Building in crypto since 2017. I w
 
 ## Now
 
-- **[Fiftysix](https://fiftysix.tech)** · `Founder`
+- **[Fiftysix](https://fiftysix.tech)** · `Founder`<br>
   Making technology easier and more accessible. Today, that means solver infrastructure.
-- **[Kaisersolver](https://fiftysix.tech/work/kaisersolver/)** · `Operator of record, through Fiftysix`
+- **[Kaisersolver](https://fiftysix.tech/work/kaisersolver/)** · `Operator of record, through Fiftysix`<br>
   A CoW Protocol solver.
-- **[Nodevin](https://github.com/fiftysixtech/nodevin)** · `Founder, Maintainer`
+- **[Nodevin](https://github.com/fiftysixtech/nodevin)** · `Founder, Maintainer`<br>
   Run a blockchain node with one command.
 
 ## Before
 
-- **Capsule** · `Co-founder, CEO and Chairman`
+- **Capsule** · `Co-founder, CEO and Chairman`<br>
   Packaging and shipping for blockchain. Bloq was majority shareholder. [Medium](https://medium.com/capsulenft) · [GitHub](https://github.com/CapsuleNFT)
-- **[Ordinary Oranges](https://ordinaryorangesnft.io)** · `Co-founder, Developer`
+- **[Ordinary Oranges](https://ordinaryorangesnft.io)** · `Co-founder, Developer`<br>
   Bitcoin Ordinals (inscriptions 67,060 to 78,860) tradable on Ethereum.
-- **[Dollar Store Kids](https://github.com/CapsuleNFT/dollar-store-kids)** · `Co-founder, Developer`
+- **[Dollar Store Kids](https://github.com/CapsuleNFT/dollar-store-kids)** · `Co-founder, Developer`<br>
   The first dollar-backed NFT collection, audited by Quantstamp.
-- **[Bloq](https://bloq.com)**
+- **[Bloq](https://bloq.com)**<br>
   Blockchain infrastructure and staking.
 
 ## What I Work On
